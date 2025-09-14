@@ -1,7 +1,7 @@
 // Pelota que rebota de arriba a abajo
 float x, y;     // posición
-float dy = 3;   // velocidad en y
-float r  = 40;  // radio de la pelota
+float dy = 4;   // velocidad en y
+float r  = 50;  // radio de la pelota
 
 void setup() {
   size(600, 400);
